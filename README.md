@@ -3,6 +3,10 @@ This is the demo application using React Hooks!!!
 
 The article containing instructions on how to build this app can be found [here](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
 
+[Preview](https://mokedeng.github.io/react-hooks-movie/)
+
+![](http://q8zp4zhff.bkt.clouddn.com/react-hooks-movie.png)
+
 # Getting Started
 These instructions should get you a copy of the project up and running on your local machine for development and testing purposes.
 
